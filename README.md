@@ -1,2 +1,20 @@
-# distribute-framework-optimize
-This project contains several big data distribute framework optimize , you can use those in your project for good performace.  --jiangsy
+# 分布式框架性能调优
+
+这个项目将涵盖大数据项目的大多数框架的性能调优，目前所想到的项目有这些：
+    
+    Hadoop MR
+    Pig 
+    Hive
+    HBase
+    
+    Spark
+    Storm
+    
+  后续将逐步将拓展其它项目，并将这些项目进一步完善！
+  
+  
+  你可以将这些应用到你的项目中来获取更好的性能，Good Luck！
+  
+
+
+
